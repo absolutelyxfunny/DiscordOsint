@@ -14,3 +14,4 @@
 📜Requirements
 -  discum==1.1.0
 -  requests
+-  from discord.ext import commands
