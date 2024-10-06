@@ -10,3 +10,7 @@
 - https://t.me/xhelpper
 - dsc.gg/xHelper
 - https://www.donationalerts.com/r/xfunny
+
+📜Requirements
+-  discum==1.1.0
+-  requests
